@@ -1,4 +1,4 @@
-## Hello everyone! This is my personal repo :))
+## Hello, this is my personal repo.
 <!--
 **ghimire-shan/ghimire-shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
